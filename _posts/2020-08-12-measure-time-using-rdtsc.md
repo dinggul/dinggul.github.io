@@ -19,7 +19,7 @@ Intel 환경에서 실험을 하다보면 `rdtsc` 명령어를 사용하여 코�
 변수가 존재하는데, 이는 후술하겠다) 보통 다음과 유사한 코드를 이용한다.
 [^ex-code]
 
-```C
+```c
 static __inline__ unsigned long long rdtsc(void)
 {
     unsigned hi, lo;
