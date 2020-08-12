@@ -8,11 +8,11 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: Chirpy                          # the main title
+title: dinggul                          # the main title
 
-tagline: A text-focused Jekyll theme.  # it will display as the sub-title
+tagline: blog                           # it will display as the sub-title
 
-description: >-                        # used by seo meta and the atom feed
+description: >-                         # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
   bootstrap Jekyll theme with responsive web design
   and focuses on text presentation.
@@ -27,8 +27,8 @@ avatar: /assets/img/sample/avatar.jpg   # support internet resources
 github:
   username: dinggul                     # change to your github username
 
-twitter:
-  username: twitter_username            # change to your twitter username
+# twitter:
+#   username: twitter_username            # change to your twitter username
 
 social:
   name: dinggul                         # it will shows as the copyright owner in Footer
